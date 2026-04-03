@@ -1,0 +1,28 @@
+# AI-Powered Energy Consumption Forecasting System
+
+## 📌 Overview
+This project predicts future energy consumption using Machine Learning.
+
+## 🚀 Features
+- Data preprocessing
+- Feature engineering
+- Random Forest model
+- Performance evaluation
+- Visualization
+
+## 🛠️ Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib
+
+## 📊 Results
+- RMSE: XX
+- R2 Score: XX
+
+## ▶️ How to Run
+1. Install requirements
+2. Run Jupyter Notebook
+
+## 📌 Author
+Your Name
